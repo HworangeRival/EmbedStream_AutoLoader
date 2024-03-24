@@ -1,0 +1,9 @@
+{
+  "name": "HwRv - Embed ADS Bypass",
+  "version": "0.0.1","description": "Tested on Brave Browser!",
+  "permissions":["tabs","scripting"],
+  "manifest_version": 3, "author": "..:: Hworange Rival ::..","background": {"service_worker": "jump.js"},
+  "homepage_url": "https://www.youtube.com/user/MrHworange/channels",
+  "host_permissions": ["http://*/watchfree/*", "https://*/watchfree/*","http://mixdrop.club/f/*", "https://mixdrop.club/f/*"],   
+  "icons": {"16": "x.png","32": "x.png","48": "x.png","128": "x.png"}
+ }
